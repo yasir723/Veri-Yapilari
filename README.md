@@ -1,5 +1,5 @@
 # Veri Yapıları
 
 ## Konuların listesi
-###  ⭕️ Ağaçlar
-####     ◉ nodeEkle
+### ⭕️ Ağaçlar
+#### ◉ nodeEkle
