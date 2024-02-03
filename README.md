@@ -1,1 +1,1 @@
-# Veri-Yap-lar-
+# Veri-Yapıları
