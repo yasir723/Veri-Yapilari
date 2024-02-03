@@ -2,4 +2,4 @@
 
 ## Konuların listesi
 ### ⭕️ Ağaçlar
-#### ◉ nodeEkle
+####            ◉ nodeEkle
