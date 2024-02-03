@@ -2,4 +2,4 @@
 
 ## Konuların listesi
 ### ⭕️ Ağaçlar
-####            ◉ [Node Ekleme](nodeEkle.md)
+####            ◉ [Node Ekleme](https://github.com/yasir723/node-ekle)
